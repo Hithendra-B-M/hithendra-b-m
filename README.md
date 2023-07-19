@@ -15,8 +15,6 @@ Beyond the realms of coding, my aspirations soar even higher. I dream of becomin
 
 <h4>Programming Languages</h4><br>
 
-<h5>5 &#11088</h5><br>
-
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> &nbsp;
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
