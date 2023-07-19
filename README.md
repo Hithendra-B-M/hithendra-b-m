@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Hithendra B M</h1>
 
-<h2 align="center">Hardware Maestro | Coding Polyglot | Ethical Hacker |Pentester(Security-Analyst)</h2>
+<h2 align="center">Tech-Savvy|Hardware Maestro | Coding Polyglot | Ethical Hacker |Pentester(Security-Analyst)</h2>
+
+<h5 align="center">In tech's dance, an ethical hacker's stance, a polyglot programmer with knowledge enhanced, amidst present's crisis, solutions advanced.</h5>
 
 
 <br>
@@ -19,12 +21,12 @@ Beyond the realms of coding, my aspirations soar even higher. I dream of becomin
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white">&nbsp;
+<br>
+<h4>Front-end Web development</h4><br>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> &nbsp;
-<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white">&nbsp;
-
-<br>
 <h4>Scripting</h4><br>
 -Windows bash scripts
 <br><br>
