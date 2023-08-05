@@ -31,16 +31,12 @@ Beyond the realms of coding, my aspirations soar even higher. I dream of becomin
 -Windows bash scripts
 <br><br>
 
-
-
-
 <h4>Frameworks</h4>
-
-<img src="https://img.shields.io/badge/Metasploit-%235052A5.svg?style=for-the-badge&logo=metasploit&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> &nbsp;
-<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> &nbsp;
 <br>
 
 <h4>Version Control</h4>
@@ -53,7 +49,7 @@ Beyond the realms of coding, my aspirations soar even higher. I dream of becomin
 <h4>Database</h4>
 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> &nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 
 
 <br>
@@ -90,6 +86,16 @@ Beyond the realms of coding, my aspirations soar even higher. I dream of becomin
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">&nbsp;
 
 <br>
+<h4>Hosting and Cloud Storage</h4>
+
+<img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white">
+
+<br>
 
 <h4>Developer</h4>
 
@@ -100,9 +106,6 @@ Beyond the realms of coding, my aspirations soar even higher. I dream of becomin
 <img src="https://img.shields.io/badge/TryHackMe-%231E7B3D.svg?style=for-the-badge&logo=tryhackme&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Hack%20The%20Box-%23005A9C.svg?style=for-the-badge&logo=hack-the-box&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/RootMe-%232E0854.svg?style=for-the-badge&logo=rootme&logoColor=white">&nbsp;
-
-
-
 
 <br>
 
@@ -141,7 +144,7 @@ You can Find My Works Here:
 <br><br>
 <a href="https://github.com/Hithendra-B-M?tab=repositories" alt="Github">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-
+<br><br>
 
 <h3 align="left" style="color:#4CAF50;border-bottom: 2px solid #4CAF50;padding-bottom: 10px;margin-top: 20px;">Connect With Me:</h3><br>
 
