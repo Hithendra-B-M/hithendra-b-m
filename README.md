@@ -15,11 +15,15 @@ Beyond the realms of coding, my aspirations soar even higher. I dream of becomin
 ## Skills and Usage
 
 ### Programming Languages
+### a)Advance
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
+
+### b)Basic
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 ### Front-end Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,12 +31,16 @@ Beyond the realms of coding, my aspirations soar even higher. I dream of becomin
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Scripting
--Windows bash scripts
+[![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
+
 
 ### Frameworks
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAMAAAAMs7fIAAAAeFBMVEUAAABp8vEAAAD19PSAgHwDAADm5uYGBgYAAAD///9VVVW3t7cUFBQQEBALCwsrFxcW8vLxgYGBZWVlb29vPz8+Dg4ODg4P9/f1gYGBdXV13d3d/f399fX16enpISEh/f39/f39fX2hoaH9/f3ExMT9/f3x8fGhoaH9/f3t7e0uLi4+Pj7u7uzs7Ozs7P19fWcnJy+Pj7////r6+us7Oz8/Pz//v7+/39/f29vb7+/v8/Pz/7+/v19fX+/v4GBgYXFxf4+Pj////f3/1m+fAAAAfElEQVR4nO3aQQ6CMBCF4b/dXGE1oOqgZDE9/dXCRJwA1P+LKe6RZD9/70gKHBRBMYEAMMYRBvAQIw4Ec2Dw6rAqA4wbgGCQECcQFC4EsSAAw0hEG8QIBjHgRzcPAqwKgOMG4BgkBAJxAULgSxIADDSERYLgSAMNIQbxAgGM+BGtwcQAAAAAElFTkSuQmCC)](https://attack.mitre.org/)
+[![Cyber Kill Chain](https://img.shields.io/badge/Cyber_Kill_Chain-E34F26?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAmVBMVEX///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADzSv7LAAAAL3RSTlMAEAwCKChyOXDhfZWtmqK2ssrrL+7T5ePk+RUZGJk5eQdXV5+fX+GhoiNj44lJic4ODv7Pz9/f4zMzM+vr6/Pz8/f399vb28uLio6Ok9PTEyM0fSAAAALNJREFUeNqcwYEAAAAAgqCv5RzQM/hxHjzZBAkgYj8P5wA/1HJf2yCQhcc4TJjU1h9BPDgSKzD0mISgFygsxuQJA6ExSki1AwDlmKMJBooAM4zEKTQIAgQCCMIgEEBAqABYQCAACiEAICABKEAIigBAAAArApg9NAQAgQQCgQgIQIAIoQAgAAKIKACAgAQigBACAAAogAoIABAIAIoQAgAAKIGA9NAIAIwAgQoIAIoQAgAAKIKACAgAQigBACAAAogAoIABAIAIoQAgAAKIKACAgAQigBACAAAogAoIABAIAIoQAgAAKIKACAgAQigBACAAAogAoIABAIAIoQAgAAKIKACAgAQigBACAAAogAoIABAIAIoQAgAAKIKACAgAQigBACAAAogD6dAF5AQBBBAAAEEEEAAAQQQQAABBBCA/Bn/sHDCG3H+AAAAAElFTkSuQmCC)](https://en.wikipedia.org/wiki/Cyber_kill_chain)
+[![Diamond Model](https://img.shields.io/badge/Diamond_Model-343A40?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAOVBMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC+78T0AAAAW3RSTlMAYGCAgIDAwUFhYmKi4yMzQ1Njg4OTk6OjpCQkJGRkZKSkpQUlZaWlpycnK2trdHR0tbW1t7e4uLm6urv8/P0NDQ2NjY5OTn6+v3dXeAAAADiSURBVDjLvVJbDoAgDEWRmBy3+/0MB8MHh+9UiJmEjHjuZT6cZDAcU3b2ZBmY7G2fY3LLeiJlGAjHrZd+pdPZ0dZssjUfIb2gKIdY6I01bYpCGj1iF7mDmL61eK+pBujidJfRSJQpWStKUFyDSJCGDijFCJAhx4whxKQoqQpCo4wRwohTKEGIowhDqkKIpkKSIpkGio0oTSKQ0oYKIYrIkIowhTSKEC6wv0uabngQnCH7gEKM9JJKZzQAAAABJRU5ErkJggg==)](https://en.wikipedia.org/wiki/Diamond_model_(cyber_security))
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
@@ -42,7 +50,6 @@ Beyond the realms of coding, my aspirations soar even higher. I dream of becomin
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Pentesting
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%238A2BE2.svg?style=for-the-badge&logo=burp-suite&logoColor=white)
@@ -104,6 +111,7 @@ Beyond the realms of coding, my aspirations soar even higher. I dream of becomin
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![EC-Council](https://img.shields.io/badge/EC--Council-%23000000.svg?style=for-the-badge&logo=ec-council&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-%23316295.svg?style=for-the-badge&logo=cisco&logoColor=white)
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)](https://azure.microsoft.com/)
 
 ## Projects
 You can Find My Works Here:
