@@ -15,38 +15,31 @@ Beyond the realms of coding, my aspirations soar even higher. I dream of becomin
 ## Skills Stack and badges
 
 ### Programming Languages
-### a)Advance
 <table>
   <tbody>
     <tr valign="top">
-      <td align="center">
-        <img height="40px" src="https://github.com/Hithendra-B-M/hithendra-b-m/assets/87265007/bf132e6f-c98c-42ee-8ffb-bdbe17d88225">
-      </td>
       <td align="center">
         <img height="40px" src="https://github.com/Hithendra-B-M/hithendra-b-m/assets/87265007/dc2ac67a-411a-4c1c-a90b-d6be77a16ad1">
       </td>
-      <td  align="center">
-        <img height="40px" src="https://github.com/Hithendra-B-M/hithendra-b-m/assets/87265007/3b4d9088-fbfc-47eb-a405-a64719b90274">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-### b)Basic
-<table>
-  <tbody>
-    <tr valign="top">
       <td align="center">
         <img height="40px" src="https://github.com/Hithendra-B-M/hithendra-b-m/assets/87265007/14eace03-656f-4c10-aec0-7f78266fb149">
       </td>
       <td align="center">
         <img height="40px" src="https://github.com/Hithendra-B-M/hithendra-b-m/assets/87265007/f6fb8861-4e01-4acf-a585-21714abba39c">
       </td>
+      <td align="center">
+        <img height="40px" src="https://github.com/Hithendra-B-M/hithendra-b-m/assets/87265007/bf132e6f-c98c-42ee-8ffb-bdbe17d88225">
+      </td>
+      <td  align="center">
+        <img height="40px" src="https://github.com/Hithendra-B-M/hithendra-b-m/assets/87265007/3b4d9088-fbfc-47eb-a405-a64719b90274">
+      </td>
+      <td align="center">
+        <img height="40px" src="https://github.com/Hithendra-B-M/hithendra-b-m/assets/87265007/4ddedbc7-f7ae-498a-be0a-624c5c436d07">
+      </td>
     </tr>
   </tbody>
 </table>
-
-
+      
 ### Front-end Web Development
 <table>
   <tbody>
