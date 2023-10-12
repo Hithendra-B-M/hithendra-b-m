@@ -124,30 +124,24 @@ Beyond the realms of coding, my aspirations soar even higher. I dream of becomin
 <td align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=html" />
   </a>
-</p> 
+</p>  
+
 </td>
+
+<td align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+</p> </td> 
 
 <td align="center"><p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap" />
   </a>
 </p>  </td>
-
-<td align="center"><p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css" />
-  </a>
-</p> </td> 
-
-<td align="center">
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html" />
-  </a>
-</p>  
-</td>
 
 <tr valign="top">
 <td align="center">
@@ -157,13 +151,6 @@ Beyond the realms of coding, my aspirations soar even higher. I dream of becomin
   </a>
 </p>   </td> 
 
-<td align="center">
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind" />
-  </a>
-</p>    
-</td>
 
 <td align="center">
 <p align="center">
@@ -171,6 +158,46 @@ Beyond the realms of coding, my aspirations soar even higher. I dream of becomin
     <img src="https://skillicons.dev/icons?i=mongo" />
   </a>
 </p>   </td> 
+
+<td align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=expressjs" />
+  </a>
+</p>  </td>
+
+<td align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+</p> 
+</td>
+
+<td align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+</p>    
+</td>
+
+<td align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi" />
+  </a>
+</p>    
+</td>
+
+
+<td align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+</p>    
+</td>
 
 <td align="center">
 <p align="center">
@@ -185,21 +212,6 @@ Beyond the realms of coding, my aspirations soar even higher. I dream of becomin
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgresql" />
-  </a>
-</p>  </td>
-
-<td align="center">
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-  </a>
-</p>    
-</td>
-
-<td align="center">
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=expressjs" />
   </a>
 </p>  </td>
 
