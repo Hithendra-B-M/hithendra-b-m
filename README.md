@@ -143,7 +143,6 @@ Beyond the realms of coding, my aspirations soar even higher. I dream of becomin
   </a>
 </p>  </td>
 
-<tr valign="top">
 <td align="center">
 <p align="center">
   <a href="https://skillicons.dev">
@@ -151,7 +150,7 @@ Beyond the realms of coding, my aspirations soar even higher. I dream of becomin
   </a>
 </p>   </td> 
 
-
+<tr vaign="center">
 <td align="center">
 <p align="center">
   <a href="https://skillicons.dev">
@@ -181,7 +180,9 @@ Beyond the realms of coding, my aspirations soar even higher. I dream of becomin
   </a>
 </p>    
 </td>
+</tr>
 
+<tr valign="center">
 <td align="center">
 <p align="center">
   <a href="https://skillicons.dev">
@@ -207,14 +208,15 @@ Beyond the realms of coding, my aspirations soar even higher. I dream of becomin
 </p>    
 </td>
 
-<tr valign="top">
 <td align="center">
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgresql" />
   </a>
 </p>  </td>
+</tr>
 
+<tr valign="top">
 <td align="center">
 <p align="center">
   <a href="https://skillicons.dev">
@@ -222,13 +224,14 @@ Beyond the realms of coding, my aspirations soar even higher. I dream of becomin
   </a>
 </p>   
 </td>
-<tr valign="top">
+
 <td align="center">
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=redux" />
   </a>
 </p>   </td> 
+
 <td align="center">
 <p align="center">
   <a href="https://skillicons.dev">
@@ -236,19 +239,14 @@ Beyond the realms of coding, my aspirations soar even higher. I dream of becomin
   </a>
 </p>  
 </td>
+
 <td align="center">
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django" />
   </a>
 </p>   </td> 
-<td align="center">
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress" />
-  </a>
-</p></td>
-
+</tr>
 </div>
 </tbody>
 </table>
